@@ -16,3 +16,5 @@ Different file stages:
 3. Push your files
 4. Commit 2 more times
 5. Push again
+
+[Next repo](https://github.com/CCornez/kleurboek)
